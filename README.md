@@ -17,4 +17,4 @@ This tool allows anyone to verify punks generated are transparently fair and can
 
 ## Expected output
 
-You will see full attribute data for what should be generated based on that transaction and how many minted.  
+You will see full attribute data for what is generated based on transaction id and how many minted.  
