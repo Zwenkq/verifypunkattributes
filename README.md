@@ -9,7 +9,7 @@ This tool allows anyone to verify punks generated are transparently fair and can
 
 ## Install
 
-* pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Run
 
